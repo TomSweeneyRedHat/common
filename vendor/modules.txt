@@ -184,6 +184,7 @@ github.com/containers/storage/types
 ## explicit
 github.com/coreos/go-systemd/v22/dbus
 # github.com/cyphar/filepath-securejoin v0.2.3
+## explicit
 github.com/cyphar/filepath-securejoin
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
@@ -391,7 +392,7 @@ github.com/rivo/uniseg
 # github.com/seccomp/libseccomp-golang v0.9.2-0.20210429002308-3879420cc921
 ## explicit
 github.com/seccomp/libseccomp-golang
-# github.com/sirupsen/logrus v1.8.1
+# github.com/sirupsen/logrus v1.9.0
 ## explicit
 github.com/sirupsen/logrus
 # github.com/spf13/cobra v1.4.0
@@ -478,7 +479,7 @@ golang.org/x/net/trace
 ## explicit
 golang.org/x/sync/errgroup
 golang.org/x/sync/semaphore
-# golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 ## explicit
 golang.org/x/sys/execabs
 golang.org/x/sys/internal/unsafeheader

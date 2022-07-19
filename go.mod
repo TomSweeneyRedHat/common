@@ -11,6 +11,7 @@ require (
 	github.com/containers/ocicrypt v1.1.3
 	github.com/containers/storage v1.39.0
 	github.com/coreos/go-systemd/v22 v22.3.2
+	github.com/cyphar/filepath-securejoin v0.2.3
 	github.com/disiqueira/gotree/v3 v3.0.2
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/docker/docker v20.10.14+incompatible
@@ -30,7 +31,7 @@ require (
 	github.com/opencontainers/selinux v1.10.1
 	github.com/pkg/errors v0.9.1
 	github.com/seccomp/libseccomp-golang v0.9.2-0.20210429002308-3879420cc921
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.1
@@ -38,7 +39,7 @@ require (
 	github.com/vishvananda/netlink v1.1.1-0.20210330154013-f5de75959ad5
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 )
 
