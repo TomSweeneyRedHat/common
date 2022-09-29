@@ -9,14 +9,14 @@ require (
 	github.com/containernetworking/plugins v1.1.1
 	github.com/containers/image/v5 v5.22.0
 	github.com/containers/ocicrypt v1.1.5
-	github.com/containers/storage v1.42.0
+	github.com/containers/storage v1.43.0
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/cyphar/filepath-securejoin v0.2.3
 	github.com/davecgh/go-spew v1.1.1
 	github.com/disiqueira/gotree/v3 v3.0.2
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/docker/docker v20.10.17+incompatible
-	github.com/docker/go-units v0.4.0
+	github.com/docker/go-units v0.5.0
 	github.com/fsnotify/fsnotify v1.5.4
 	github.com/ghodss/yaml v1.0.0
 	github.com/godbus/dbus/v5 v5.1.0
@@ -27,7 +27,7 @@ require (
 	github.com/onsi/gomega v1.20.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
-	github.com/opencontainers/runc v1.1.3
+	github.com/opencontainers/runc v1.1.4
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/opencontainers/runtime-tools v0.9.1-0.20220714195903-17b3287fafb7
 	github.com/opencontainers/selinux v1.10.1
@@ -82,7 +82,7 @@ require (
 	github.com/mattn/go-shellwords v1.0.12 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/miekg/pkcs11 v1.1.1 // indirect
-	github.com/mistifyio/go-zfs v2.1.2-0.20190413222219-f784269be439+incompatible // indirect
+	github.com/mistifyio/go-zfs/v3 v3.0.0 // indirect
 	github.com/moby/sys/mountinfo v0.6.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
